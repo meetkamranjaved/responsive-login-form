@@ -11,7 +11,7 @@ A clean and modern **Responsive Login Form** built using **HTML5** and **CSS3**,
 - Responsive layout for mobile and desktop
 - Clean and modern UI
 - Font Awesome icons integration
-- Google Font: [Poppins](https://fonts.google.com/specimen/Poppins)
+- Google Font: Poppins
 - Smooth hover and focus effects
 
 > Developed with ❤️ by [Kamran Javed](https://onedigitalline.com)  
