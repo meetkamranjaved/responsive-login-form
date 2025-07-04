@@ -46,4 +46,4 @@ A clean and modern **Responsive Login Form** built using **HTML5** and **CSS3**,
 
 ---
 
-> Developed with ❤️ by [Kamran Javed](https://onedigitalline.com)  
+> Developed with ❤️ by [Kamran Javed](https://kamranjaved.online)
