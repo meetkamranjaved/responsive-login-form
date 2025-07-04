@@ -1,7 +1,9 @@
 # Responsive Login Form
-Responsive Login Form | OneDigitalLine.com
+A modern, mobile-friendly login UI for websites | [OneDigitalLine.com](https://onedigitalline.com)
 
 A clean and modern **Responsive Login Form** built using **HTML5** and **CSS3**, featuring Font Awesome icons and Google Fonts.
+
+---
 
 ![Login Form Screenshot](https://github.com/user-attachments/assets/f2737b2a-32fb-47b6-835f-b54ecf1f345b)
 
