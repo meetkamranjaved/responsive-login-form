@@ -135,3 +135,28 @@ section {
 .signup-link a:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 480px) {
+  main {
+    width: 90%;
+  }
+
+  header {
+    font-size: 24px;
+    padding: 20px 0;
+  }
+
+  .input-group input {
+    padding: 12px 12px 12px 40px;
+    font-size: 14px;
+  }
+
+  .input-group i {
+    font-size: 16px;
+  }
+
+  .submit-btn input {
+    font-size: 16px;
+    padding: 12px;
+  }
+}
