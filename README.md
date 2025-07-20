@@ -11,7 +11,7 @@ A clean and modern **Responsive Login Form** built using **HTML5** and **CSS3**,
 ---
 
 ## 🚀 Demo
-[Live Demo](https://projects.kamranjaved.com/responsive-login-form)
+[Live Demo](https://projects.kamranjaved.com/mini-projects/responsive-login-form)
 
 ---
 
