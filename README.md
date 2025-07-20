@@ -6,7 +6,7 @@ A clean and modern **Responsive Login Form** built using **HTML5** and **CSS3**,
 ---
 
 ## 📸 Screenshot
-![responsive-login-form](https://github.com/user-attachments/assets/8f71cb29-a2b2-450d-aca0-2598ff5764fc)
+![responsive-login-form](https://github.com/user-attachments/assets/50167c0b-e9c4-4c81-96a7-f48f6287fe52)
 
 ---
 
